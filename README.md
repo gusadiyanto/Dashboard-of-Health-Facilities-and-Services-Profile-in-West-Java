@@ -34,6 +34,9 @@ Dashboard Page 2 :
 # Tableau Public (Dashboard) : 
 https://public.tableau.com/app/profile/agus.adiyanto/viz/DashboardofHealthFacilitiesandGuaranteeinWestJava/DashboardofHealthFacilitiesandServicesProfileinWestJava
 
+# Google slide presentation :
+[https://docs.google.com/presentation/d/1_C-Y3liW76YRIPoE_caLYFwT-30Xdk5u88nUp7Jxz6I/](https://docs.google.com/presentation/d/1_C-Y3liW76YRIPoE_caLYFwT-30Xdk5u88nUp7Jxz6I/)
+
 Instagram  : [@agus.adiyanto](https://www.instagram.com/agus.adiyanto/)
 
 Twitter  	 : [@gusadiyanto](https://x.com/gusadiyanto)
